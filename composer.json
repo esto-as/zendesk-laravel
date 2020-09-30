@@ -13,7 +13,7 @@
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "~5.4|^6.0|^7.0",
-        "esto-as/zendesk_api_client_php": "2.3.0"
+        "esto-as/zendesk_api_client_php": "^2.0"
     },
     "extra": {
         "laravel": {
